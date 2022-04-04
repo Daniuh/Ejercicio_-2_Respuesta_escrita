@@ -1,0 +1,8 @@
+¿Es posible ejecutar un programa en java que contenga varias clases con métodos main?
+ En caso positivo, ¿cómo se determina el punto de entrada a un programa?
+
+R/ Si se puede ejecutar un programa, incluso eso da hasta libertad de navegar entre clases 
+principales, el como se determina el punto de entrada es ya por cuenta del programador, ya que 
+al haber varias clases main, que se toman como las principales, cada una te puede dar un punto de entrada
+Por eso ya es el programador el que elige el punto de entrada, sabiendo cual es mejor o cual 
+es la que tiene el desarrollo para dar inicio al programa.
